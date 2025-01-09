@@ -3,3 +3,5 @@ A project where I translate a string of characters into morse code. Got the insp
 
 <br/>
 Tutorial 1: https://youtu.be/fJWR7dBuc18?si=15q5eXjbd1_uhTO8
+<br/>
+Demo: https://youtube.com/shorts/hAgOTnSbyYY
